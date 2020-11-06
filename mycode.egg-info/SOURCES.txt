@@ -1,0 +1,10 @@
+README.md
+setup.py
+mycode/__init__.py
+mycode/new.py
+mycode.egg-info/PKG-INFO
+mycode.egg-info/SOURCES.txt
+mycode.egg-info/dependency_links.txt
+mycode.egg-info/top_level.txt
+mycode/duck/__init__.py
+mycode/duck/ducktype.py
